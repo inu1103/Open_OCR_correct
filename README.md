@@ -79,8 +79,8 @@ The folder “data/Book1Sanskrit” contains:-
 
 # How to use the Framework
 
-1) Select the Language out of Sanskrit, Hindi/Marathi or English from top right(preferred English). Click on the “Open” icon on top left, or press “CTRL + O”.
-2) Open the file “data/Book1Sanskrit/Inds/page-1.txt”. This also link the files and folders in “Book1Sanskrit/”.
+1) Select the Language out of Sanskrit, Hindi/Marathi or English from top right. Click on the “Open” icon on top left, or press “CTRL + O”.
+2) Open the file “Book1Sanskrit/Inds/page-1.txt”. This also link the files and folders in “Book1Sanskrit/”.
 3) Click on “Load Data” to load Dictionary, Confusions, Sandhi Rules, GEROCR , IEROCR. Common OCR words in GEROCR and IEROCR will be loaded in Domain Vocabulary. It will take few seconds.
 If you forget to “Load Data”, data will be loaded whenever you right click a word.
 4) Finally, after loading data, page1.txt will again appear in the text browzer. Just click on the word to move the cursor on it and then right click on the colored words to generate suggestions.
